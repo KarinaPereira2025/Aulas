@@ -14,10 +14,10 @@ int main(){
     scanf("%f", &altura);
     
     printf("Digite seu saldobancario: \n");
-    scanf("%d", &saldobancario);
+    scanf("%lf", &saldobancario);
 
    printf("digite a inicialdonome: \n");
-   scanf("%c", &inicial);
+   scanf(" %c", &inicial);
     //printf("nome: %s \n", nome);
 
     return 0;
