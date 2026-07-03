@@ -14,8 +14,8 @@ int main(){
     scanf("%s", &nome);
     printf("Sua matricula: ");
     scanf("%d", &matricula);
-    printf("Obrigada por informar seus dados!");
-
+    printf("Nome do aluno: %s - Matricula: %d - Altura: %.2f \n", nome, matricula, altura);
+    printf("**Obrigada por informar seus dados!**");
     return 0;
 
 
