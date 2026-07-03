@@ -6,13 +6,13 @@ int main(){
     char nome[50];
     system("clear");
 
-    printf("Sua idade: %d \n");
+    printf("Sua idade: ");
     scanf("%d", &idade);
-    printf("Sua altura: %.2f \n");
+    printf("Sua altura: ");
     scanf("%f", &altura);
-    printf("Seu nome: %s \n");
-    scanf("%s",  &nome);
-    printf("Sua matricula: %d \n");
+    printf("Seu nome: ");
+    scanf("%s", &nome);
+    printf("Sua matricula: ");
     scanf("%d", &matricula);
 
     return 0;
