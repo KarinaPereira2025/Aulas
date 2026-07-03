@@ -6,6 +6,7 @@ int main(){
     double saldobancario;
     char inicial;
     //char nome[20] = "Bruno"; 
+    system("clear");//serve para limpar o programa
 
     printf("Digite sua idade: \n");
     scanf("%d", &idade);
