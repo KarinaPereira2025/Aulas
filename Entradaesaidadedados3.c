@@ -1,5 +1,5 @@
 #include <stdio.h>
-int maim(){
+int main(){
     //operadores matematicos
 
     int numero1, numero2;
