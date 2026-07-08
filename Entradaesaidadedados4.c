@@ -6,8 +6,9 @@ int main(){
     Atribuição com multiplicação(*=)
     Atribuição com divisao(/=)
     */
+    system("clean");
    int numero1 = 10, numero2, resultado;
-   system("clean");
+  
    resultado = 10;
    printf("Resultado: %d\n", resultado);
 
